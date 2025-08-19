@@ -14,9 +14,8 @@ Suitable for **TDD/demo/study**, and as a skeleton mini-sandbox based on Solana 
 ## ⚙️ How to use
 
 ### Installation
-```bash
-pip install "fastapi[standard]" orjson pynacl httpx pytest anyio
-```
+`pip install -r requirements.txt`
+
 
 ### Run
 #### Leader:
